@@ -6,7 +6,7 @@ The SQL Employee Tracker is a command-line application used to manage a complany
 
 ## Installation
 
-In order to use the SQL Employee Tracker, the user must clone the repository from GitHub () to their local terminal. Navigate into the project directory and install the required dependencies by running: `npm i`. Then, to run the application enter: `node server.js`
+In order to use the SQL Employee Tracker, the user must clone the repository from GitHub (https://github.com/LorenzoNolasco/_employee_tracker) to their local terminal. Navigate into the project directory and install the required dependencies by running: `npm i`. Then, to run the application enter: `node server.js`
 
 ## Usage
 
@@ -14,6 +14,6 @@ Once the program is running the user may use the keyboard arrows to choose diffe
 
 ## Video
 
-Click on this link to view a walkthrough video of this application:
+Click on this link to view a walkthrough video of this application: https://drive.google.com/file/d/1juRYab6VwyoYrm77n-2Zv-_p6S2lwGKK/view?usp=sharing
 
 # _employee_tracker
