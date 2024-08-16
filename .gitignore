@@ -1,0 +1,37 @@
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# MacOS files
+.DS_Store
+
+# Debug output
+*.out
+*.map
+
+# Compiled files
+dist/
+
+# IDE files (e.g., VSCode)
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+
+# System files
+Thumbs.db
